@@ -35,3 +35,13 @@ int main()
 }
 OUTPUT:
 
+ Enter comment://hello
+
+ It is a comment
+--------------------------------
+Process exited after 7.078 seconds with return value 0
+Press any key to continue . . .
+
+
+
+
